@@ -61,6 +61,10 @@
     </light>
     <!--}-->
 
+  
+  <include> 
+    <uri>model://ground_plane</uri> 
+  </include> 
 
   <!-- You can either use v3 or v4 -->
     <include>

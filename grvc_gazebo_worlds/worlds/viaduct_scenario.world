@@ -34,6 +34,10 @@
       <uri>model://sun</uri>
     </include>
 
+  <include> 
+    <uri>model://ground_plane</uri> 
+  </include> 
+
     <gui>
       <camera name="user_camera">
         <pose>22.63 -22.12 13.75 0 0.45 1.89</pose>
